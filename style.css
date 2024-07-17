@@ -1,0 +1,65 @@
+#skibidisigma {
+    position: absolute;
+    top:9%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    width: 150px; /* Adjust this value to control the image size */
+    height: 150px;
+    border-radius: 50%; /* Creates a circular shape */
+    opacity: 0.99;
+    
+}
+  
+
+
+  
+}
+
+
+
+
+
+  
+  .circular-frame {
+    
+    width: 320px; /* Adjust this value to control the frame size */
+    height: 180px;
+    border-radius: 699%;
+    border: 10px solid #4576ff; /* Optional: Add a border to the frame */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+  }
+
+ 
+
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Sets the body height to 100% of the viewport */
+    background-image: linear-gradient(aquamarine, lightgreen);
+    background-size: cover;
+    background-position: center top;
+  }
+  
+.text1 {
+    text-decoration: dotted;
+}
+
+#orderportal {
+    position: absolute;
+    top: 70%;
+    left: 90%;
+    transform: translate(-50%, -50%);
+    width: 150px; /* Adjust width as needed */
+    height: 150px;
+    background-color: rgba(5, 151, 5, 0.7); /* Semi-transparent white */
+    border: none;
+    border-radius: 5px;
+    cursor: point
+ 
+  
+ 
